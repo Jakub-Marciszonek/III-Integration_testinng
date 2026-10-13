@@ -25,8 +25,8 @@ This project demonstrates unit and integration testing using **Express.js**, **M
 Clone the repository and navigate to the project directory:
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
-cd <YOUR_PROJECT_DIRECTORY>
+git clone <https://github.com/Jakub-Marciszonek/III-Integration_testinng>
+cd <https://github.com/Jakub-Marciszonek/III-Integration_testinng>
 ```
 
 Install the dependencies:
